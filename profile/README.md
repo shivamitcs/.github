@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Shivamitcs/.github/blob/main/banner.png?raw=true" alt="SHIVAM ITCS Banner" width="100%" />
+  <img src="https://github.com/shivamitcs/.github/blob/main/banner.png?raw=true" alt="SHIVAM ITCS Banner" width="100%" />
 </div>
 
 <br/>
@@ -10,9 +10,12 @@
 
 ### AI Automation • Agentic AI • Enterprise SaaS • RAG Systems
 
-Building scalable AI platforms, intelligent automation systems, and enterprise-grade digital infrastructure.
+Building production-ready AI platforms, fintech systems,
+healthcare ecosystems, and enterprise SaaS solutions
+used to automate workflows and accelerate business operations.
 
 🌐 https://shivamitcs.in
+🌐 https://shivamitconsultancy.com
 
 </div>
 
@@ -79,7 +82,10 @@ Docker • Kubernetes • AWS • Azure
 # 📫 Contact
 
 🌐 https://shivamitcs.in
-📧 [ceo@shivamitconsultancy.com](mailto:ceo@shivamitconsultancy.com)
+
+🌐 https://shivamitconsultancy.com
+
+📧 ceo@shivamitconsultancy.com
 
 ---
 
